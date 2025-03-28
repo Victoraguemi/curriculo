@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Amoroso - Victor Hugo Aguemi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            background: #ddd;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://via.placeholder.com/150" alt="Foto de Victor Hugo Aguemi">
+        <h1>Victor Hugo Aguemi</h1>
+        <p><strong>Idade:</strong> 25 anos</p>
+        <p><strong>Altura:</strong> 1,82m</p>
+        <p><strong>Formação:</strong> Cursando Física</p>
+        <p><strong>Sobre mim:</strong> Romântico, inteligente e mestre na arte do carinho!</p>
+        
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Bom ouvinte e conselheiro</li>
+            <li>Especialista em abraços quentinhos</li>
+            <li>Maratonista de séries românticas</li>
+            <li>Domínio absoluto na arte de escolher filmes para um date perfeito</li>
+        </ul>
+        
+        <h2>Conquistas</h2>
+        <ul>
+            <li>🏆 2 vezes campeão mundial na Copa de Dormir de Conchinha</li>
+            <li>🎖️ Medalha de ouro na paciência e compreensão</li>
+            <li>💘 Certificado em jantares caseiros à luz de velas</li>
+        </ul>
+        
+        <h2>Experiências</h2>
+        <ul>
+            <li>Ex-namorada: "O melhor abraço do mundo, mas roubava meu cobertor!"</li>
+            <li>Amigo: "Sempre pronto para um bom papo e um café!"</li>
+        </ul>
+        
+        <div class="contact">
+            <h2>Contato</h2>
+            <p>📧 <a href="mailto:victorhugo@email.com">victorhugo@email.com</a></p>
+            <p>📱 <a href="https://wa.me/seunumerodetelefone">Fale comigo no WhatsApp</a></p>
+        </div>
+    </div>
+</body>
+</html>
